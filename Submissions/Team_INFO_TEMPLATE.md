@@ -1,13 +1,12 @@
-# 🏆 Hackathon Submission – [Team Name]
+# 🏆 Hackathon Submission [FORKS]
 
 ## 👥 Team Information
 
 | Member Name | GitHub Username | Role |
 |--------------|----------------|------|
-| [Full Name] | [@username] | Team Lead |
-| [Full Name] | [@username] | Developer |
-| [Full Name] | [@username] | Designer |
-| [Full Name] | [@username] | [Role] |
+| [Syed Alam Shah ] | [@syedalamshah] | Team Lead |
+| [Syed Muhammad Qasim] | [@syedmqasim029] | Developer |
+| [Syed Muhammad Shaheer Ali] | [@shaheer4li] | Developer |
 
 > The **Team Lead** is responsible for forking the repository, creating this folder, and adding all members as collaborators.
 
