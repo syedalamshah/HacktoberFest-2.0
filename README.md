@@ -5,32 +5,6 @@ We are tackling three exciting challenges across Data Science, Mobile Developmen
 
 ---
 
-## 👥 Team Quark AI
-
-*Team Lead:* Munib Ur Rehman Memon
-
-### 🎯 Our Projects
-
-#### 1️⃣ Predicting Patient Hospital Readmission Risk (Issue #2)
-*Developer:* Munib Ur Rehman Memon  
-*Category:* Data Science/AI/ML  
-*Tech Stack:* Python, Kaggle Dataset, Flask API  
-*Description:* ML-powered solution to predict hospital readmission risk, helping healthcare providers make data-driven decisions and reduce readmission rates.
-
-#### 2️⃣ Gamified Personal Finance Tracker (Issue #10)
-*Developer:* Muhammad Tayyab  
-*Category:* Mobile Application  
-*Tech Stack:* React Native, Expo, Clerk, Supabase  
-*Description:* A gamified mobile app that transforms personal finance management into an engaging experience with goal tracking and expense monitoring.
-
-#### 3️⃣ ShopEase – Inventory & Sales Management System (Issue #8)
-*Developer:* Muzammil  
-*Category:* Web Application  
-*Tech Stack:* Next.js  
-*Description:* Comprehensive inventory and sales management system to streamline business operations, track inventory, and manage sales efficiently.
-
----
-
 ## 🏁 Hackathon Overview
 
 The *Hackathon 2025* brings together creative developers, designers, and innovators to solve real-world problems through technology.
