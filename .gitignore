@@ -7,5 +7,4 @@
 /target/
 
 
-.env
 xgb_readmission_model.pkl
